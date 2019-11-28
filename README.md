@@ -142,4 +142,10 @@ Lors de l'extinction du serveur, celui-ci vous renvoie le nombre de commandes tr
 
 >![Alt Image Text](https://image.noelshack.com/fichiers/2019/41/2/1570531155-fakedns.png "Moyenne")
 
+### Conclusion
+
+J'ai beaucoup aimé faire ce projet, il m'a permit d'apprendre des nouvelles notions comme les tables de hachage, le TTL et les mutexs. La réalisation de ce projet est intéressante car cela m'a fait comprendre comment fonctionne un serveur DNS et de plus, cela m'a permit de mettre en application toutes les notions vu au préalable et de me familiariser avec celles-ci.
+
 Auteur : *César VENZAC*
+
+Tuteurs : *Nicolas VILMAIN et Vincent KHERBACHE*
